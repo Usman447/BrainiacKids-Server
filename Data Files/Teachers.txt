@@ -1,0 +1,5 @@
+1,Irfan,irfan,12345,1,2,3,4
+2,Bilal,bilal,12345,2,3,4
+3,Jamal,jamal,12345,1,2,4,5,8
+4,Naeema,naeema,12345,8,9,10,12,13
+5,Qirat,qirat,12345,1,2,3,6,14

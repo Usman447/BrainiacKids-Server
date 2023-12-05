@@ -1,0 +1,1 @@
+{"Tracking":[{"Name":"A-Letter","Stars":3},{"Name":"B-Letter","Stars":3},{"Name":"C-Letter","Stars":3}],"MatchLetters":{"Stars":3},"GuessLetters":{"Stars":1},"PopTheLetters":{"Right":7,"Wrong":3,"Missing":4}}
